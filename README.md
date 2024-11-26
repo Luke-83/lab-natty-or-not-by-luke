@@ -3,7 +3,7 @@
 # Impactos da IA No Mercado Financeiro
 
 ## 📒 Descrição
-Como sou funcionário de uma instituição bancária, a Caixa Econômica no caso, resolvi fazer um pequeno ebook com os impactos da IA no mercado financeiro, em especial nos bancos.
+Como sou funcionário de uma instituição bancária, a Caixa Econômica no caso, optei por fazer um ebook com os impactos da IA no mercado financeiro, em especial nos bancos.
 
 ## 🤖 Tecnologias Utilizadas
 - Chat GPT para desenvolver o conteúdo
