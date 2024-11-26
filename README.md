@@ -17,7 +17,7 @@ A etapa seguinte foi a criação da imagem da capa do livro, utilizei o copilot 
 Realizei o upload do ebook criado neste link: https://github.com/Luke-83/lab-natty-or-not-by-luke/blob/main/impacto_IA_mercado_financeiro.pdf
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Foi minha primeira criação de conteúdo utilizando as ferramentas, a parte de criação do texto achei surpreendentemente fácil, não sei se por um tema simples, ou por ser apenas 10 páginas, submeter as alterações que eu precisava foi bem fácil as respostas vinham encadeadas, como se fosse um polimento na resposta anterior, o que não aconteceu na geração da imagem no Copilot, mas nada que um prompt bem detalahado não resolvesse. A reflexão que fica pra mim é que o medo de que vai se perder espaço para as IAs é infundado, porque elas são ferramentas fantásticas para entrega de resultados, desde que sejam acionadas corretamente, o componente humano ainda é fundamental na confecção dos prompts. 
 ```
 
