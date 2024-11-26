@@ -1,51 +1,23 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Impactos da IA No Mercado Financeiro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como sou funcionário de uma instituição bancária, a Caixa Econômica no caso, resolvi fazer um pequeno ebook com os impactos da IA no mercado financeiro, em especial nos bancos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Chat GPT para desenvolver o conteúdo
+- Microsoft Copilot para gerar a imagem da capa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O primeiro passo foi submeter minha ideia de tema de livro ao CHATGPT (temática, quantidade de páginas), a primeira resposta foi uma sugestão de tópicos que eu poderia abordar, já sugerindo a divisão das páginas, em seguida solicitei que a ferramenta desenvolvesse o texto. Após uma primeira revisão, solicitei algumas mudanças no texto para atender às minhas necessidades.
+A etapa seguinte foi a criação da imagem da capa do livro, utilizei o copilot para a geração, foi um processo um pouco mais demorado até chegar na imagem desejada em função de não conseguir que a ferramenta fizesse apenas alterações na imagem anterior, após refina bastante meu prompt cheguei na imagem esperada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Realizei o upload do ebook criado neste link: https://github.com/Luke-83/lab-natty-or-not-by-luke/blob/main/impacto_IA_mercado_financeiro.pdf
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi minha primeira criação de conteúdo utilizando as ferramentas, a parte de criação do texto achei surpreendentemente fácil, não sei se por um tema simples, ou por ser apenas 10 páginas, submeter as alterações que eu precisava foi bem fácil as respostas vinham encadeadas, como se fosse um polimento na resposta anterior, o que não aconteceu na geração da imagem no Copilot, mas nada que um prompt bem detalahado não resolvesse. A reflexão que fica pra mim é que o medo de que vai se perder espaço para as IAs é infundado, porque elas são ferramentas fantásticas para entrega de resultados, desde que sejam acionadas corretamente, o componente humano ainda é fundamental na confecção dos prompts. 
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
